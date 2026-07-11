@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Rahma Permata / Site Title"
+title                    : "Rahma Permata"
 title_separator          : "-"
 name                     : &name "Rahma Permata"
 description              : &description "Rahma Permata's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "rahmapermata/rahmapermata.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rahma Permata"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Taipei, Taiwan"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
